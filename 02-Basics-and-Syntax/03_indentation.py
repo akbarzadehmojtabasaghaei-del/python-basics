@@ -32,8 +32,6 @@ print("This is a new line.")
 
 # --- Topic: The `sep` Parameter ---
 # The `sep` (separator) parameter controls the character(s) used to separate arguments.
-
-# CORRECT: Using different separators to format data.
 X = 2
 x = 3
 Y = 6
@@ -47,15 +45,9 @@ print(x, y, Y, X, sep=" -> ") # Use an arrow to show a sequence
 
 # --- Topic: The `end` Parameter ---
 # The `end` parameter controls the character(s) printed at the very end of the line.
-
-# WRONG: Thinking `end` separates items. It only affects the end of the print call.
-# print("item1", "item2", end="---") # This prints "item1 item2---" not "item1---item2"
-
-# CORRECT: Using `end` to print multiple statements on the same line.
+print("\n--- Using the end Parameter ---")
 print("Processing file:", end=" ")
-# Imagine a time-consuming task happens here
 print("80%", end="...")
-# Imagine more work
 print("Done.")
 
 
@@ -65,22 +57,47 @@ print("Done.")
 # ===================================================================================
 
 # --- Topic: Combining `sep` and `end` ---
-# You can use both parameters in a single call for maximum control.
-
-# Example: Generating a list of file permissions.
+print("\n--- Combining sep and end ---")
 print("Permissions", "user", "group", "others", sep=":", end="\n\n")
-# The double newline `\n\n` adds an extra blank line for spacing.
 print("read", "write", "execute", sep="-")
 
 
 # --- Topic: A Note on F-Strings vs. print() Parameters ---
-# F-Strings are for formatting the *content* of a single string.
-# `sep` and `end` are for controlling the *behavior* of the print function itself.
-# They solve different problems but can be used together.
-
 user = "Mojtaba"
 score = 95
 print(f"User '{user}' scored {score}", end=" | Status: OK\n")
 
 
+# ===================================================================================
+# ## Level 4: Exploring Edge Cases (Your Practice Section)
+# Exploring less common but insightful behaviors of the print() function.
+# ===================================================================================
+
+# --- Topic: Using Newline Characters (`\n`) as Arguments ---
+# You practiced passing the newline character `\n` directly as an argument.
+# Let's analyze what happens.
+
+print("\n--- Exploring `\n` as an argument ---")
+print(5, '\n', 9, '\n')
+# BEHAVIOR: `print` treats `\n` like any other string. It prints the argument, then the
+# separator. When it prints the `\n` string, the cursor moves to a new line.
+
+# --- Your practice with different separators ---
+print("--- Using `\n` as an argument with custom `sep` ---")
+print(x, '\n', '\n', 5, 9, '\n', sep=';')
+print(5, 6, '\n', 9, '\n', sep='hi')
+print(78, 78, '\n', 78, 78, sep='/')
+
+# PROFESSIONAL ADVICE:
+# While this works, it can make the code's intent less clear. For creating multi-line
+# output, using multiple print() calls or f-strings is often more readable.
+
+# More readable alternative for the same visual output:
+print("\n--- More readable multi-line printing ---")
+print(5)
+print(9)
+print() # Prints an empty line
+
+# Or using a single f-string:
+print(f"Here is one number: {5}\nAnd here is another: {9}\n")
 print("\n--- print() Function Mastery Guide: Complete ---")
