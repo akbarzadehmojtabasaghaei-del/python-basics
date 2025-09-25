@@ -1,26 +1,32 @@
-### 🗓️ Date: 2025-09-25
+---
+### 🗓️ Date: 2025-09-26
 
 **✅ Main Topics Today:**
-- Advanced GitHub Repository Management.
-- Understanding Software Licenses (MIT, etc.).
-- Improving `README.md` with advanced Markdown.
-- The concept and practice of maintaining a learning journal.
-- Preliminary research into coding conventions and copyright.
+- Finalizing the main project `README.md`.
+- Structuring the chapter guides for `00-Introduction` and `01-Setup`.
+- Deep dive into Markdown formatting for professional documentation.
+- Learning the importance of separating "project-level" vs. "chapter-level" information.
 
 **✍️ My Understanding & Notes:**
-Today was a "meta" day, focused less on writing Python code and more on building a professional developer presence on GitHub. I spent a significant amount of time organizing my repository's folder structure and content to make it more logical and clean.
-
-A big highlight was learning how to properly license my code. I also dedicated a lot of time to polishing my main `README.md` file. Learning how to create clickable links in Markdown was a small detail that made the entire page feel much more interactive and professional. I realized that documenting my journey in a daily journal like this is a powerful way to track progress and solidify what I've learned.
+Today was another foundational day. I realized that a professional repository isn't just about the code, but how it's presented. I spent the entire day structuring the main entry points of my project. I moved my high-level "Blueprint" to the main `README.md`, making it the true landing page. Then, I organized the content for the first two chapters (`00-Introduction` and `01-Setup`) into their own dedicated `README.md` files. This separation makes the project structure much cleaner and more logical.
 
 **🤯 Challenges & Questions:**
-The main challenge wasn't a bug in code, but rather navigating the professional standards of software development. I became very curious about the legal aspects, like copyright and licensing. I plan to dive deeper into coding conventions tomorrow to ensure I'm building good habits from the start.
+The biggest challenge today was surprisingly frustrating: wrestling with Markdown formatting. I struggled for a while with copy-paste issues that were breaking the layout of my files, especially the headings and code blocks. It was a good lesson in paying attention to small details and learning how to debug documentation just like I would debug code.
 
 **💡 Discoveries & Resources Today:**
-- **Primary Research:** I became curious about licensing after seeing it on another GitHub profile. I used YouTube to get a general overview.
-- **Help from AI:** I used both **Gemini** and **Qwen** to ask specific questions about different license types. I found Gemini's explanations to be particularly clear and helpful.
-- **Inspiration & Mentorship:** I reviewed several public GitHub profiles from experienced developers to get inspiration for my own structure. I'm also very grateful for my friends who gave me valuable feedback today.
+- My main discovery was the importance of **atomic commits**. Instead of making many changes at once, I learned to make one small change (like fixing a file's location), and commit it with a clear message. This makes the project history much easier to read.
+- I continued to get great feedback and guidance, which helped me quickly resolve the structural issues. This collaborative process is teaching me a lot.
 
 **💻 A Key Code Snippet I Wrote:**
-Today's "code" was Markdown! I learned the syntax for creating links to my project folders, which was a great win.
+No Python today. The most important "code" was perfecting the Markdown structure. This is the clean structure for a chapter guide that I finalized:
 ```markdown
-[Link Text](./path-to-folder)
+# ⚙️ Chapter Title
+
+Introductory paragraph explaining the chapter's purpose.
+
+---
+
+## Step 1: First Concept
+
+- Details and explanations.
+- Code examples in a block.
