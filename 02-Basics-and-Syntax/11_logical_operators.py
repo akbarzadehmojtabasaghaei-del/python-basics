@@ -6,6 +6,8 @@
 #
 # Author:         Mojtaba Akbarzadeh Saghaei
 # GitHub Profile: https://github.com/akbarzadehmojtabasaghaei-del/python-basics
+# LinkedIn:       https://www.linkedin.com/in/mojtaba-akbarzadeh-saghaei
+
 # ===================================================================================
 
 s = "hi my name is 12"

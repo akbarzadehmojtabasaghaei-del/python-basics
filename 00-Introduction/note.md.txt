@@ -55,5 +55,5 @@ Each numbered folder represents a chapter in this journey. Inside, you will find
 Thank you for visiting. I welcome feedback, suggestions, and corrections. Please feel free to open an issue if you spot something!
 
 _You can follow my professional journey here:_
--   **LinkedIn:** [www.linkedin.com/in/mojtaba-akbarzadeh-saghaei]
+-   **LinkedIn:** https://www.linkedin.com/in/mojtaba-akbarzadeh-saghaei
 -   **GitHub:** [https://github.com/akbarzadehmojtabasaghaei-del/python-basics]

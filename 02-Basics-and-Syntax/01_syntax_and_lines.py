@@ -7,7 +7,7 @@
 #
 # Author:         Mojtaba Akbarzadeh Saghaei
 # GitHub Profile: https://github.com/akbarzadehmojtabasaghaei-del/python-basics
-# LinkedIn:       www.linkedin.com/in/mojtaba-akbarzadeh-saghaei
+# LinkedIn:     https://www.linkedin.com/in/mojtaba-akbarzadeh-saghaei
 # ===================================================================================
 
 
