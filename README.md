@@ -8,9 +8,9 @@ I’m 19 and teaching myself to code because I believe it’s the key to solving
 This isn’t just about syntax — it’s about building skills that matter.
 
 My goals are to:
-✅ Master Python deeply — not just copy-paste.
-✅ Build projects that solve actual problems (even small ones).
-✅ Create a portfolio that speaks louder than any certificate.
+1- Master Python deeply — not just copy-paste.
+2- Build projects that solve actual problems (even small ones).
+3- Create a portfolio that speaks louder than any certificate.
 
 ##  Tech Stack & Mindset
 Language: Python 3.11
@@ -23,14 +23,14 @@ Mindset: “Break it → Fix it → Understand it”
 
 Each folder is a chapter in my self-taught curriculum:
 
-00-Introduction/      → Why I started, setup notes
-01-Basics/            → Variables, data types, input/output
-02-Control-Flow/      → If/else, loops, logic
+**[00-Introduction/](./00-Introduction/)**     → Why I started, setup notes
+**[01-Basics-and-Syntax/](./02-Basics-and-Syntax/)**            → Variables, data types, input/output
+**[02-Control-flow-Decision](./04-Control-Flow-Decision/)**     → If/else, loops, logic
 ...
-assignments/          → My solutions to exercises
-sandbox/              → Temporary experiments (ignored in Git)
+**[assignments/](./assignments)** → My solutions to exercises
+**[sandbox/](./sandbox)** → Temporary experiments (ignored in Git)
 
-💡 The code in each chapter is my own implementation — often rewritten 2–3 times until it felt “right”.
+ The code in each chapter is my own implementation — often rewritten 2–3 times until it felt “right”.
 
 ## Current Focus (as of September 2025)
 I’m working through functions and object-oriented programming.
