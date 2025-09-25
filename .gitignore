@@ -20,3 +20,5 @@ sandbox/
 # Files for storing API keys, passwords, etc.
 .env
 *.env
+# Ignore all log files
+*.log
