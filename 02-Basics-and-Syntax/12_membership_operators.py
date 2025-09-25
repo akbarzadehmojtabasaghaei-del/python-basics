@@ -6,7 +6,6 @@
 #
 # Author:         Mojtaba Akbarzadeh Saghaei
 # GitHub Profile: https://github.com/akbarzadehmojtabasaghaei-del/python-basics
-# Last Updated:   2025-09-22
 # ===================================================================================
 
 # --- Topic: `is` vs `==` Revisited ---

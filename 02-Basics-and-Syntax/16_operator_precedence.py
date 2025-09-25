@@ -8,7 +8,6 @@
 #
 # Author:         Mojtaba Akbarzadeh Saghaei
 # GitHub Profile: https://github.com/akbarzadehmojtabasaghaei-del/python-basics
-# Last Updated:   2025-09-22
 # =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 print("--- Level 18-15: The Highest Precedence (Grouping, Calls, Access) ---")
