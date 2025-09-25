@@ -3,34 +3,39 @@
 This repo is my personal logbook — a place where I document every step of my journey from an absolute beginner to (hopefully!) a confident Python developer.
 No fluff. No fake expertise. Just real progress, real mistakes, and real code.
 
-##  Why I'm Doing This
+## Why I'm Doing This
 I’m 19 and teaching myself to code because I believe it’s the key to solving real problems and building a meaningful future.
 This isn’t just about syntax — it’s about building skills that matter.
 
 My goals are to:
-1- Master Python deeply — not just copy-paste.
-2- Build projects that solve actual problems (even small ones).
-3- Create a portfolio that speaks louder than any certificate.
+1. Master Python deeply — not just copy-paste.
+2. Build projects that solve actual problems (even small ones).
+3. Create a portfolio that speaks louder than any certificate.
 
-##  Tech Stack & Mindset
+## Tech Stack & Mindset
 Language: Python 3.11
 
 Editor: VS Code (with Python, Pylance, and GitLens extensions)
 
 Mindset: “Break it → Fix it → Understand it”
 
-##  Project Structure
+## My Learning Process & Tools
+I believe in using the best tools for the job. In my learning journey, I rely on a mix of official documentation, online courses, and **AI assistants** (like ChatGPT and Google's Gemini) to help me understand complex topics, debug code, and explore best practices. My goal is to learn effectively, not to reinvent the wheel.
+
+My detailed day-to-day progress and challenges are documented in my `JOURNAL.md` file.
+
+## Project Structure
 
 Each folder is a chapter in my self-taught curriculum:
 
-**[00-Introduction/](./00-Introduction/)**     → Why I started, setup notes
-**[01-Basics-and-Syntax/](./02-Basics-and-Syntax/)**            → Variables, data types, input/output
-**[02-Control-flow-Decision](./04-Control-Flow-Decision/)**     → If/else, loops, logic
-...
-**[assignments/](./assignments)** → My solutions to exercises
-**[sandbox/](./sandbox)** → Temporary experiments (ignored in Git)
+- **[00-Introduction/](./00-Introduction/)** → Why I started, setup notes
+- **[02-Basics-and-Syntax/](./02-Basics-and-Syntax/)** → Variables, data types, input/output
+- **[04-Control-Flow-Decision/](./04-Control-Flow-Decision/)** → If/else, loops, logic
+- ...
+- **[assignments/](./assignments)** → My solutions to exercises
+- **[sandbox/](./sandbox)** → Temporary experiments (ignored in Git)
 
- The code in each chapter is my own implementation — often rewritten 2–3 times until it felt “right”.
+💡 The code in each chapter is my own implementation — often rewritten 2–3 times until it felt “right”.
 
 ## Current Focus (as of September 2025)
 I’m working through functions and object-oriented programming.
