@@ -1,7 +1,7 @@
 ---
 ### 🗓️ Date: 2025-09-26
 
-**✅ Main Topics Today:**
+✅ Main Topics Today:
 - Finalizing the main project `README.md`.
 - Structuring the chapter guides for `00-Introduction` and `01-Setup`.
 - Deep dive into Markdown formatting for professional documentation.
