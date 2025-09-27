@@ -30,6 +30,7 @@ Introductory paragraph explaining the chapter's purpose.
 
 - Details and explanations.
 - Code examples in a block.
+---
 ***
 ***
 ### 🗓️ Date: 2025-09-26
@@ -56,7 +57,8 @@ And then, darkness. The power went out. Everything gone. Hours of work vanished 
 - **The Strange Joy of a Hard-Won Battle:** Here's the crazy part. Despite being totally exhausted, I feel amazing. There's a weird, addictive thrill in wrestling with a problem that just won't quit, and then finally pinning it to the ground.
 
 **💻 Today's Mantra:**
-No Python today. The only line that mattered was the one I kept telling myself:"Just one more try."
+No Python today. The only line that mattered was the one I kept telling myself:
+"Just one more try."
 
 ***
 ***
@@ -75,6 +77,9 @@ The main challenge was simply the time it took to get everything perfect. Migrat
 - Today's big discovery was a deeper appreciation for a clean setup. Starting fresh on a new machine is a great opportunity to organize files and tools better than before. It’s a foundational step that will speed up my workflow in the long run.
 
 **💻 Today's "Code":**
-The most repeated command of the day wasn't in Python, it was in my head:"Is everything installed yet?"
+The most repeated command of the day wasn't in Python, it was in my head:
+"Is everything installed yet?"
+
+
 
 ***
