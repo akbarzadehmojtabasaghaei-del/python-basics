@@ -30,8 +30,7 @@ The biggest challenge today was wrestling with Markdown formatting. I struggled 
 No Python today. The most important "code" was perfecting the Markdown structure. Here’s the clean structure for a chapter guide that I finalized:
 
 ---
-
-```markdown
+ 
 # ⚙️ Chapter Title
 
 Introductory paragraph explaining the chapter's purpose.
@@ -40,10 +39,7 @@ Introductory paragraph explaining the chapter's purpose.
 
 - Details and explanations.
 - Code examples in a block.
-
-
-```
-
+ 
 ---
 
 ### 🗓️ Date: 2025-09-26
