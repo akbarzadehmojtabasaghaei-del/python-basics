@@ -41,7 +41,7 @@ Introductory paragraph explaining the chapter's purpose.
 - Details and explanations.
 - Code examples in a block.
 
----
+
 ```
 
 ---
