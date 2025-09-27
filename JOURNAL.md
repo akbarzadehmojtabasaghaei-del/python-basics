@@ -1,9 +1,4 @@
-# My Python Learning Journal
-
-This is where I document my daily progress, challenges, and discoveries on the path to mastering Python.
-
-***
-### 🗓️ Date: 2025-09-26
+### 🗓️ Date: 2025-09-25
 
 **✅ Main Topics Today:**
 - Finalizing the main project `README.md`.
@@ -34,7 +29,7 @@ Introductory paragraph explaining the chapter's purpose.
 
 - Details and explanations.
 - Code examples in a block.
-***
+
 ### 🗓️ Date: 2025-09-26
 
 **✅ Today's Mission:**
