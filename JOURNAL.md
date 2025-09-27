@@ -29,6 +29,8 @@ The biggest challenge today was wrestling with Markdown formatting. I struggled 
 **💻 A Key Code Snippet I Wrote:**
 No Python today. The most important "code" was perfecting the Markdown structure. Here’s the clean structure for a chapter guide that I finalized:
 
+---
+
 ```markdown
 # ⚙️ Chapter Title
 
