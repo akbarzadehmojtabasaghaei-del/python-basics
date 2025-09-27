@@ -63,7 +63,11 @@ And then, unexpectedly, the power went out and I lost hours of work. I was compl
 ---
 
 **🏆 The Spoils of War:**
+
+
+
 <img src="./assets/kali-desktop.jpg" alt="Kali Linux Desktop" width="600"/>
+
 <img src="./assets/ubuntu-desktop.jpg" alt="Ubuntu Desktop with VS Code" width="600"/>
 
 ---
