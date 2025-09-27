@@ -1,3 +1,4 @@
+***
 ### 🗓️ Date: 2025-09-25
 
 **✅ Main Topics Today:**
@@ -29,7 +30,8 @@ Introductory paragraph explaining the chapter's purpose.
 
 - Details and explanations.
 - Code examples in a block.
-
+***
+***
 ### 🗓️ Date: 2025-09-26
 
 **✅ Today's Mission:**
