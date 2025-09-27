@@ -35,9 +35,7 @@ No Python today. The most important "code" was perfecting the Markdown structure
 # ⚙️ Chapter Title
 
 Introductory paragraph explaining the chapter's purpose.
-
----
-
+ 
 ## Step 1: First Concept
 
 - Details and explanations.
